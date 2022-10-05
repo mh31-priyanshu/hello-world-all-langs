@@ -5,6 +5,6 @@
 
 ## Name: [Priyanshu Lapkale](https://github.com/mh31-priyanshu)
 - Place: Maharashtra, India
-- Bio: IT Student and i love watching series and anime and a little bit a coffee addict 
+- Bio: IT Student and I love watching series and anime and I'm a little bit coffee addicted
 - Github: [mh31-priyanshu](https://github.com/mh31-priyanshu)
 
